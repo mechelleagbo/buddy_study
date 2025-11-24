@@ -4,7 +4,7 @@ import '../models/subject.dart';
 import '../models/session_log.dart';
 
 class ApiService {
-  static String API_BASE_URL = 'http://192.168.200.7/study_buddy_2/api';
+  static String API_BASE_URL = 'http://192.168.200.10/study_buddy_2/api';
   // <-- UPDATE
 
   // Subjects
